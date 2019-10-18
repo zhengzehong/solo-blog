@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.zzhlife.cn/my-github-repos)
 * [国庆安排_2019](http://blog.zzhlife.cn/articles/2019/10/01/1569887825099.html)
 * [与神对话](http://blog.zzhlife.cn/articles/2019/09/27/1569593257282.html)
 
